@@ -18,7 +18,7 @@ type Env struct {
 var (
 	// 默认配置
 	keyWords  = []string{"impact", "Apex", "csgo", "steam", "碧蓝航线", "bingNew", "千恋万花", "BangDream", "孤独摇滚", "b站", "bilibili", "switch", "柚子社"}
-	defaultIP = "[14.102.128.0,2.59.154.0]"
+	defaultIP = "[91.199.209.2]"
 )
 
 // 处理conf
